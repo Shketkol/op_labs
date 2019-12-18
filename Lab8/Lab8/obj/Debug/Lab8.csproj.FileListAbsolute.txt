@@ -1,0 +1,9 @@
+C:\university\op_labs\Lab8\Lab8\bin\Debug\Lab8.exe.config
+C:\university\op_labs\Lab8\Lab8\bin\Debug\Lab8.exe
+C:\university\op_labs\Lab8\Lab8\bin\Debug\Lab8.pdb
+C:\university\op_labs\Lab8\Lab8\obj\Debug\Lab8.csprojAssemblyReference.cache
+C:\university\op_labs\Lab8\Lab8\obj\Debug\Lab8.Form1.resources
+C:\university\op_labs\Lab8\Lab8\obj\Debug\Lab8.Properties.Resources.resources
+C:\university\op_labs\Lab8\Lab8\obj\Debug\Lab8.csproj.GenerateResource.cache
+C:\university\op_labs\Lab8\Lab8\obj\Debug\Lab8.exe
+C:\university\op_labs\Lab8\Lab8\obj\Debug\Lab8.pdb

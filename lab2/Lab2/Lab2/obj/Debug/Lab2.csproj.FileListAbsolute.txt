@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\study\lab2\Lab2\Lab2\bin\Debug\Lab2.exe
+C:\Users\User\source\repos\study\lab2\Lab2\Lab2\bin\Debug\Lab2.pdb
+C:\Users\User\source\repos\study\lab2\Lab2\Lab2\obj\Debug\Lab2.csprojAssemblyReference.cache
+C:\Users\User\source\repos\study\lab2\Lab2\Lab2\obj\Debug\Lab2.exe
+C:\Users\User\source\repos\study\lab2\Lab2\Lab2\obj\Debug\Lab2.pdb
+C:\university\op_labs\lab2\Lab2\Lab2\bin\Debug\Lab2.exe
+C:\university\op_labs\lab2\Lab2\Lab2\bin\Debug\Lab2.pdb
+C:\university\op_labs\lab2\Lab2\Lab2\obj\Debug\Lab2.csprojAssemblyReference.cache
+C:\university\op_labs\lab2\Lab2\Lab2\obj\Debug\Lab2.exe
+C:\university\op_labs\lab2\Lab2\Lab2\obj\Debug\Lab2.pdb

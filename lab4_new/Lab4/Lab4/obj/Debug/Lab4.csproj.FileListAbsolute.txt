@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\study\lab4_new\Lab4\Lab4\bin\Debug\Lab4.exe
+C:\Users\User\source\repos\study\lab4_new\Lab4\Lab4\bin\Debug\Lab4.pdb
+C:\Users\User\source\repos\study\lab4_new\Lab4\Lab4\obj\Debug\Lab4.csprojAssemblyReference.cache
+C:\Users\User\source\repos\study\lab4_new\Lab4\Lab4\obj\Debug\Lab4.exe
+C:\Users\User\source\repos\study\lab4_new\Lab4\Lab4\obj\Debug\Lab4.pdb
+C:\university\op_labs\lab4_new\Lab4\Lab4\bin\Debug\Lab4.exe
+C:\university\op_labs\lab4_new\Lab4\Lab4\bin\Debug\Lab4.pdb
+C:\university\op_labs\lab4_new\Lab4\Lab4\obj\Debug\Lab4.csprojAssemblyReference.cache
+C:\university\op_labs\lab4_new\Lab4\Lab4\obj\Debug\Lab4.exe
+C:\university\op_labs\lab4_new\Lab4\Lab4\obj\Debug\Lab4.pdb
