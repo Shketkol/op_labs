@@ -46,6 +46,8 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="arrays.txt" />
+    <Content Include="matrix.txt" />
+    <Content Include="result.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
