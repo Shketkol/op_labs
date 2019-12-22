@@ -9,7 +9,7 @@ namespace Lab4
     {
         public static int[] arrayConvert()
         {
-            int[] array1 = new int[14], array2 = new int[17];
+            int[] array1 = new int[20], array2 = new int[20];
             Random rand = new Random();
 
             for (int i = 0; i < array1.Length; i++)

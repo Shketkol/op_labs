@@ -10,7 +10,14 @@ namespace Lab2
         static void Main(string[] args)
         {
             ConsoleColor consoleColor = Console.BackgroundColor;
-            Console.WriteLine(consoleColor);
+            Console.WriteLine(consoleColor);           
+
+            Console.WriteLine("Caps Lock is " + (Console.CapsLock ? "On!" : "Off!"));
+
+            Console.WriteLine("Введіть стоку");
+
+            string  value = Console.ReadLine();
+            Console.WriteLine("Ви ввели: " + value);
 
             Console.BackgroundColor = ConsoleColor.White;
         }

@@ -39,23 +39,34 @@ namespace Lab8
             float x4 = 800;
             float y4 = 800;
 
+            double p = 0.08;
+
             for (int i = 1; i <= 50; i++) {
                 myGrapfics.DrawLine(pen, x1, y1, x2, y2);
                 myGrapfics.DrawLine(pen, x2, y2, x4, y4);
                 myGrapfics.DrawLine(pen, x4, y4, x3, y3);
                 myGrapfics.DrawLine(pen, x3, y3, x1, y1);
 
-                x1 = (float)(x1 + (x2 - x1) * 0.08);
-                y1 = (float)(y1 + (y3 - y1) * 0.08);
+                float x1New = (float)(x1 + (x2 - x1) * p);
+                float y1New = (float)(y1 + (y2 - y1) * p);
 
-                x2 = (float)(x2 - (x2 - x1) * 0.08);
-                y2 = (float)(y2 + (y4 - y2) * 0.08);
+                float x2New = (float)(x2 + (x4 - x2) * p);
+                float y2New = (float)(y2 + (y4 - y2) * p);
 
-                x3 = (float)(x3 + (x4 - x3) * 0.08);
-                y3 = (float)(y3 - (y3 - y1) * 0.08);
+                float x3New = (float)(x3 + (x1 - x3) * p);
+                float y3New = (float)(y3 + (y1 - y3) * p);
 
-                x4 = (float)(x4 - (x4 - x3) * 0.08);
-                y4 = (float)(y4 - (y4 - y2) * 0.08);
+                float x4New = (float)(x4 + (x3 - x4) * p);
+                float y4New = (float)(y4 + (y3 - y4) * p);
+
+                x1 = x1New;
+                y1 = y1New;
+                x2 = x2New;
+                y2 = y2New;
+                x3 = x3New;
+                y3 = y3New;
+                x4 = x4New;
+                y4 = y4New;
             }
 
 

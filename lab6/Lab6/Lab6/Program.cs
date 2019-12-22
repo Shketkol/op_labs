@@ -10,7 +10,7 @@ namespace Lab6
     {
         static void Main(string[] args)
         {
-            StreamReader file = new StreamReader("C:/Users/User/source/repos/study/lab6/Lab6/Lab6/arrays.txt");
+            StreamReader file = new StreamReader("C:/university/op_labs/lab6/Lab6/Lab6/arrays.txt");
             string str = "";
             while (!file.EndOfStream) {
                 str += file.ReadLine();
