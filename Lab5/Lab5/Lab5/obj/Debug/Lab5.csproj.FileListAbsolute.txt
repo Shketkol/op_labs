@@ -6,3 +6,11 @@ D:\University\ОП-1\Рішення\Labs\Lab5\Lab5\Lab5\obj\Debug\Lab5.exe
 D:\University\ОП-1\Рішення\Labs\Lab5\Lab5\Lab5\obj\Debug\Lab5.pdb
 D:\University\ОП-1\Рішення\Labs\Lab5\Lab5\Lab5\obj\Debug\Lab5.csprojAssemblyReference.cache
 D:\University\ОП-1\Рішення\Labs\Lab5\Lab5\Lab5\obj\Debug\Lab5.Form1.resources
+C:\University\OP\op_labs\Lab5\Lab5\Lab5\bin\Debug\Lab5.exe
+C:\University\OP\op_labs\Lab5\Lab5\Lab5\bin\Debug\Lab5.pdb
+C:\University\OP\op_labs\Lab5\Lab5\Lab5\obj\Debug\Lab5.csprojAssemblyReference.cache
+C:\University\OP\op_labs\Lab5\Lab5\Lab5\obj\Debug\Lab5.Form1.resources
+C:\University\OP\op_labs\Lab5\Lab5\Lab5\obj\Debug\Lab5.Properties.Resources.resources
+C:\University\OP\op_labs\Lab5\Lab5\Lab5\obj\Debug\Lab5.csproj.GenerateResource.cache
+C:\University\OP\op_labs\Lab5\Lab5\Lab5\obj\Debug\Lab5.exe
+C:\University\OP\op_labs\Lab5\Lab5\Lab5\obj\Debug\Lab5.pdb
